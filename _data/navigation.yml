@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Phonology"
+    url: phonology
+  - title: "Morphology"
+    url: morphology
+
+docs:
+  - title: "Home"
+    children:
+      - title: "Phonology"
+        url: phonology
+      - title: "Morphology"
+        url: morphology
