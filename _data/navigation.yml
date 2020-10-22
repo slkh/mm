@@ -9,8 +9,106 @@ main:
 
 docs:
   - title: "Home"
+  - title: "Phonology"
+    url: phonology
+  - title: "Morphology"
     children:
-      - title: "Phonology"
-        url: phonology
-      - title: "Morphology"
-        url: morphology
+    - title: "Motivation and Goals:"
+      url: morphology/#motivation-and-goals
+    - title: "Overview"
+      url: morphology/#overview
+    - title: "Schema details"
+      url: morphology/#schema-details
+    - title: "Core POS"
+      url: morphology/#core-pos
+    - title: "Features"
+      url: morphology/#general-features
+    - title: "Detailed annotation guideliens"
+      url: morphology/#detailed-annotation-guideliens
+    - title: "Morphologican Annotation"
+      url: morphology/#morphologican-annotation
+    - title: "Clitics"
+      url: morphology/#clitics
+    - title: "Features"
+      url: morphology/#features
+    - title: "CAMEL POS tagset"
+      url: morphology/#camel-pos-tagset
+    - title: "NOUN"
+      url: morphology/#noun---
+    - title: "NOUN_PROP"
+      url: morphology/#nounprop---
+    - title: "NOUN_QUANT"
+      url: morphology/#nounquant---
+    - title: "NOUN_NUM"
+      url: morphology/#nounnum---
+    - title: "PRON"
+      url: morphology/#pron---
+    - title: "PRON_DEM"
+      url: morphology/#prondem---
+    - title: "PRON_INTERROG"
+      url: morphology/#proninterrog---
+    - title: "PRON_REL"
+      url: morphology/#pronrel---
+    - title: "PRON_EXCLAM"
+      url: morphology/#pronexclam---
+    - title: "ADJ"
+      url: morphology/#adj---
+    - title: "ADJ_NUM"
+      url: morphology/#adjnum---
+    - title: "ADJ_COMP"
+      url: morphology/#adjcomp---
+    - title: "VERB"
+      url: morphology/#verb---
+    - title: "VERB_PSEUDO"
+      url: morphology/#verbpseudo---
+    - title: "VERB_NOM"
+      url: morphology/#verbnom---
+    - title: "ADV"
+      url: morphology/#adv---
+    - title: "ADV_INTERROG"
+      url: morphology/#advinterrog---
+    - title: "ADV_REL"
+      url: morphology/#advrel---
+    - title: "PREP"
+      url: morphology/#prep---
+    - title: "INTERJ"
+      url: morphology/#interj---
+    - title: "CONJ"
+      url: morphology/#conj---
+    - title: "CONJ_SUB"
+      url: morphology/#conjsub---
+    - title: "PART_VOC"
+      url: morphology/#partvoc---
+    - title: "PART_RESTRICT"
+      url: morphology/#partrestrict---
+    - title: "PART_NEG"
+      url: morphology/#partneg---
+    - title: "PART_DET"
+      url: morphology/#partdet---
+    - title: "PART_INTERROG"
+      url: morphology/#partinterrog---
+    - title: "PART_FUT"
+      url: morphology/#partfut---
+    - title: "PART_FOCUS"
+      url: morphology/#partfocus---
+    - title: "PART_EMPHATIC"
+      url: morphology/#partemphatic---
+    - title: "PART_RC"
+      url: morphology/#partrc---
+    - title: "PART"
+      url: morphology/#part---
+    - title: "PART_PROG"
+      url: morphology/#partprog---
+    - title: "PART_CONNECT"
+      url: morphology/#partconnect---
+    - title: "Aditional Annotation Tasks"
+      url: morphology/#aditional-annotation-tasks
+    - title: "Lemmatization"
+      url: morphology/#lemmatization
+    - title: "Gloss"
+      url: morphology/#gloss
+    - title: "Dialect Identification"
+      url: morphology/#dialect-identification
+    - title: "Acknowledgments"
+      url: morphology/#acknowledgments
+
