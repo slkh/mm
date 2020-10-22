@@ -62,7 +62,7 @@ to the D3 tokenization scheme (Habash et al, 2010): proclitics (14 tags), enclit
 maps to ARZATB and retains backward compatibility. It also offers an intuitive 
 Arabic scheme that is suitable to use for annotation.
 
-### Features
+### Features {#general-features}
 {{ page.camelpos }} provides full array of features: 
 
 - **A**spect with the values **P**erfective, **I**mperfective and **C**ommand.
